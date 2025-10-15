@@ -11,7 +11,7 @@ def get_all_students():
 
 if __name__ == "__main__":
     add_student("Neel", "SSN001")
-    add_student("Arjun", "SSN002")
+    add_student("Kapil", "SSN002")
 
     print("Student List:")
     for s in get_all_students():
